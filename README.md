@@ -4,7 +4,7 @@ At the end of the 9-week full-time intensive coding bootcamp, we had the opportu
 
 - one-week project building a clone of Airbnb:
 [RentATool](https://airbnb-mdarbois-2df6fe8522d7.herokuapp.com)  
-[Check the code here](https://github.com/mdarbois/LeWagon-fullstack/tree/main/Airbnb)  
+[Check the code here](https://github.com/mdarbois/Rent-a-tool)  
 
 - two-weeks project building our own web app:
 [Cooking Mate](https://www.cookingmate.site)  
