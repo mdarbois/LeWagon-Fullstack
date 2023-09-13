@@ -1,3 +1,0 @@
-# Airbnb
-
-One week project 
