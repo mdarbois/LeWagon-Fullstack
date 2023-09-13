@@ -1,8 +1,11 @@
 # LeWagon-fullstack
 
-COMING SOON !
+At the end of the 9-week full-time intensive coding bootcamp, we had the opportunity to work in teams on two projects.
 
-[Airbnb](https://github.com/mdarbois/LeWagon-fullstack/tree/main/Airbnb)
+- one-week project building a clone of Airbnb
+[See the result here](https://airbnb-mdarbois-2df6fe8522d7.herokuapp.com)
+[Check the code here](https://github.com/mdarbois/LeWagon-fullstack/tree/main/Airbnb)
 
-
-[CookingMate](https://github.com/mdarbois/LeWagon-fullstack/tree/main/CookingMate)
+- two-weeks project building our own web app
+[Cooking Mate](https://www.cookingmate.site)
+[Check the code here](https://github.com/mdarbois/LeWagon-fullstack/tree/main/CookingMate)
