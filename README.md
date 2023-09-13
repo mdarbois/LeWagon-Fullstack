@@ -8,4 +8,4 @@ At the end of the 9-week full-time intensive coding bootcamp, we had the opportu
 
 - two-weeks project building our own web app:
 [Cooking Mate](https://www.cookingmate.site)  
-[Check the code here](https://github.com/Priscila0210/cooking-mate)  
+[Check the code here](https://github.com/mdarbois/LeWagon-Fullstack/tree/main/CookingMate) 
