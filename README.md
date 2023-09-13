@@ -12,9 +12,8 @@ At the end of the 9-week full-time intensive coding bootcamp, we had the opportu
 
 ## Product Pitch
 
-![Bildschirmfoto 2023-09-13 um 14 26 19](https://github.com/mdarbois/LeWagon-Fullstack/assets/119587916/95ed4743-3212-400f-9be4-6b1c3c0b42ec)
+![Bildschirmfoto 2023-09-13 um 14 31 52](https://github.com/mdarbois/LeWagon-Fullstack/assets/119587916/5c646479-1516-4f13-aa97-9fed7008d664)
 
 ## Database schema
 
-![Bildschirmfoto 2023-09-13 um 14 31 52](https://github.com/mdarbois/LeWagon-Fullstack/assets/119587916/5c646479-1516-4f13-aa97-9fed7008d664)
-
+![Bildschirmfoto 2023-09-13 um 14 26 19](https://github.com/mdarbois/LeWagon-Fullstack/assets/119587916/95ed4743-3212-400f-9be4-6b1c3c0b42ec)
