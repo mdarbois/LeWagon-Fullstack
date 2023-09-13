@@ -13,4 +13,4 @@ Final project of the 3 months bootcamp
 
 ## App
 
-[See the result here](www.cookingmate.site)
+[See the result here](http://www.cookingmate.site)
