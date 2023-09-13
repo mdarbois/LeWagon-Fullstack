@@ -1,4 +1,4 @@
-# LeWagon-fullstack
+# LeWagon Fullstack Web Development
 
 At the end of the 9-week full-time intensive coding bootcamp, we had the opportunity to work in teams on two projects.
 
