@@ -8,8 +8,8 @@ one-week project building a clone of Airbnb:
 [Check the code here](https://github.com/mdarbois/Rent-a-tool)  
 
 ## Cooking Mate
-final two-weeks project building our own web app:
-[Live demo of Cooking Mate held during the demo day, at the end of the bootcamp]([http://www.cookingmate.site](https://drive.google.com/file/d/19O-I6B4D3ZWEYhcGOHJWdPo-Jce5Beez/view?t=54m55s))  
+final two-weeks project building our own web app.
+[Live demo held on the last day of the bootcamp](https://drive.google.com/file/d/19O-I6B4D3ZWEYhcGOHJWdPo-Jce5Beez/view?t=54m55s)  
 [Check the code here](https://github.com/mdarbois/LeWagon-Fullstack/tree/main/CookingMate) 
 
 - Product Pitch
