@@ -18,11 +18,11 @@ final two-weeks project building our own web app.
 ## Rent A Tool
 one-week project building a clone of Airbnb:
 [Check the code here](https://github.com/mdarbois/Rent-a-tool)  
-[Home page](https://github.com/mdarbois/LeWagon-Fullstack/files/12660418/screencapture-1-3000-2023-09-19-14_57_21.pdf)
+![Home page](https://github.com/mdarbois/LeWagon-Fullstack/files/12660418/screencapture-1-3000-2023-09-19-14_57_21.pdf)
 
-[Once logged in, the user can toggle to see more infos regarding the tool and book a rental](https://github.com/mdarbois/LeWagon-Fullstack/files/12660421/screencapture-1-3000-2023-09-19-14_58_05.pdf)
+![Once logged in, the user can toggle to see more infos regarding the tool and book a rental](https://github.com/mdarbois/LeWagon-Fullstack/files/12660421/screencapture-1-3000-2023-09-19-14_58_05.pdf)
 
-[In her/his profile, the user can edit his/her personal infos, his/her upcoming bookings as well as the tools he/she owns](https://github.com/mdarbois/LeWagon-Fullstack/files/12660434/screencapture-1-3000-pages-home-2023-09-19-14_59_40.pdf)
+![In her/his profile, the user can edit his/her personal infos, his/her upcoming bookings as well as the tools he/she owns](https://github.com/mdarbois/LeWagon-Fullstack/files/12660434/screencapture-1-3000-pages-home-2023-09-19-14_59_40.pdf)
 
-[The search allows the user to look for specific terms and display the corresponding tools](https://github.com/mdarbois/LeWagon-Fullstack/files/12660446/screencapture-1-3000-tools-2023-09-19-15_01_04.pdf)
+![The search allows the user to look for specific terms and display the corresponding tools](https://github.com/mdarbois/LeWagon-Fullstack/files/12660446/screencapture-1-3000-tools-2023-09-19-15_01_04.pdf)
 
